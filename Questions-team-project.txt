@@ -5,11 +5,13 @@ What is your level in Python (1-5) 1- You did not attend the Python class or und
 What is your level in and attraction to teamwork (1-5) ? 1-No experience and hate it 5-More than 6 months work experience and love it
 
 What is your area of interest: 
-1. Business
-2. Marketing
-3. Other types of data engineering (Video games, Science, etc.) ?
+
+My areas of interest revolve around the subject matter areas that try to solve marketing and business pain points through machine learning techniques
 
 Do you have previous experience in Machine Learning (Yes/No) ?
 If yes, explain it:
+NO
 
 Suggest 2 person you would like to work with:
+Florent Jeannot
+Clement Terrien
